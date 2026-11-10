@@ -1,2 +1,3 @@
-# canning-row-mapping
-Canning Row clearance mapping helpers
+# Canning Row mapping
+
+Small scripts used to plot clearance boundaries.
